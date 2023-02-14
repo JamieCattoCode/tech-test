@@ -84,5 +84,7 @@ If I had more time to work on the app, I would:
 ## Author
 ### Jamie Catto
 [LinkedIn](https://www.linkedin.com/in/jamie-catto-6876421b8/)
+
 [Twitter](https://twitter.com/CodesJmt)
+
 [GitHub](https://github.com/JamieCattoCode)
