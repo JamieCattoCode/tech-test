@@ -7,6 +7,7 @@ The app needed to have the following functionalities:
 - Images must be returned upon a successful search
 
 ## Screenshots of the app working
+### Desktop
 When the user opens the app they're shown this screen:
 ![Opening screen](/public/screenshot-empty-search.png)
 
@@ -15,6 +16,10 @@ If they type in a successful search term they will see something like this:
 
 If they type in an unsuccessful search term they will see this:
 ![Unsuccessful search](/public/screenshot-unsuccessful.png)
+### Mobile
+These screenshots are taken using the dimensions of the iPhone 12 and 12 Pro (390x844):
+![Opening screen](/public/screenshot-mobile-empty.png)
+![Moon search results](/public/screenshot-mobile-moon.png)
 
 ## What was the app built with?
 This app was built with Create React App, initially using the `npx create-react-app` command.
@@ -79,7 +84,7 @@ You can return to your repository to test the app with the `npm test` command.
 If I had more time to work on the app, I would:
 - Improve the styling for a better and smoother user experience
 - Give some context to the images (e.g. a caption) when hovering over them
-- Improve the responsiveness so that the app can be used across different devices
+- Improve the responsiveness so that the app can be used across different devices such as iPads
 
 ## Author
 ### Jamie Catto
