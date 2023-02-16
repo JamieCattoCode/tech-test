@@ -10,5 +10,12 @@
 }
 
 .nasa-logo {
+    width: 70vw;
     height: 50vh;
+}
+
+@media (max-width: 650px) {
+    .nasa-logo {
+        height: 40vh;
+    }
 }
